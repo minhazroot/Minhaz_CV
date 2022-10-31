@@ -1,0 +1,15 @@
+body {
+    background-color: blue;
+}
+
+main {
+    width: 90%;
+    background-color: aqua;
+    margin: 30px;
+}
+
+.header_contenae {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+}
